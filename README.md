@@ -15,7 +15,7 @@ Language Skills
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mayara-jane-santos-346897245/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mayarajane.s/)
 
-<img src="https://github.com/mayarajane/mayarajane/blob/master/images.jpg">
+<img src="https://github.com/mayarajane/mayarajane/blob/main/images.jpg">
 
 <!--
 **mayarajane/mayarajane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
